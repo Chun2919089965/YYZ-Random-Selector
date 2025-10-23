@@ -6,3 +6,4 @@
 即开即用，简单易上手。
 无需复杂部署环境，仅一个HTML文件在浏览器上本地运行即可使用。
 本项目使用GPL3许可证。
+本项目展示地址：https://chun2919089965.github.io/YYZ-Random-Selector/YYZ-Random-Selector.html
